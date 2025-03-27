@@ -24,5 +24,9 @@ the dataset is from the National Transportation Safety Board that includes aviat
 ## Tools Used
 Programming language: Python,Jupyter notebook
 
+## visuals
+1. bar graph of the engine type of the aircraft by the number of accidents
+![image alt](https://github.com/kibngetich/aviation-data-analysis/blob/6f32b88609c8285f484e48ad92427eedc37818e4/Screenshot%202025-03-27%20122336.png)
+
 
 
