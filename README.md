@@ -25,11 +25,14 @@ the dataset is from the National Transportation Safety Board that includes aviat
 Programming language: Python,Jupyter notebook
 
 ## visuals
-1. bar graph of the engine type of the aircraft involved by the total number of accidents
-![image alt](https://github.com/kibngetich/aviation-data-analysis/blob/6f32b88609c8285f484e48ad92427eedc37818e4/Screenshot%202025-03-27%20122336.png)
+1. bar graph of the engine type of the aircrafts by the total number of accidents
+ ![image alt](https://github.com/kibngetich/aviation-data-analysis/blob/6f32b88609c8285f484e48ad92427eedc37818e4/Screenshot%202025-03-27%20122336.png)
 
-2. bar graph of the number of engines of the aircraft involved by the total number of accidents
-![image alt](https://github.com/kibngetich/aviation-data-analysis/blob/150d4b0f7b98a2f9ea70b1bb2785fef3b459c5d0/Screenshot%202025-03-27%20122559.png)
+2. bar graph of the number of engines of the aircrafts by the total number of accidents
+ ![image alt](https://github.com/kibngetich/aviation-data-analysis/blob/150d4b0f7b98a2f9ea70b1bb2785fef3b459c5d0/Screenshot%202025-03-27%20122559.png)
+
+3. bar graph of the make of the aircrafts by the total number of accidents
+  ![image alt](https://github.com/kibngetich/aviation-data-analysis/blob/861371cada9e6a947682ad2b22022b2b6916de7c/Screenshot%202025-03-27%20122828.png)
 
 
 
