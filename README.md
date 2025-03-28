@@ -69,6 +69,10 @@ Programming language: Python,Jupyter notebook
  Aircrafts with many number of engines are more suitable
 
 
+ ## Tableau link
+ https://public.tableau.com/views/aviationriskanalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
   
 
 
