@@ -6,6 +6,7 @@ Your company is expanding in to new industries to diversify its portfolio. Speci
 ## objective
 
 determining which aircraft are the lowest risk for the company for commercial and private enterprises.
+translating findings into actionable insights
 
 
 ## Data
